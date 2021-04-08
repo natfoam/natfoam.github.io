@@ -1,4 +1,4 @@
-Natfoam is working on some stealth projects. Some libraries will be released as open source projects on [GutHub](http://github.com/natfoam).
+Natfoam is working on some stealth projects. Some libraries will be released as open source projects on [GitHub](http://github.com/natfoam).
 
 ## Contacts
 
