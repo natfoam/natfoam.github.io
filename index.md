@@ -1,4 +1,4 @@
-natfoam is working on some stealth projects.
+Natfoam is working on some stealth projects.
 
 Some artifacts of these projects will be released as open source projects on [GutHub](http://github.com/natfoam).
 
