@@ -1,4 +1,9 @@
-Natfoam is working on some stealth projects. Some libraries will be released as open source projects on [GitHub](http://github.com/natfoam).
+Natfoam is working on some stealth projects.
+
+## Open Source Projects
+
+- [FunctionalScript](https://github.com/functionalscript/functionalscript),
+- Other OSS projects can be found on [GitHub](http://github.com/natfoam).
 
 ## Contacts
 
